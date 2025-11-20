@@ -597,10 +597,10 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Mis\xE3o Baleia"
+  m_text: Caudas em cena
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 658857f963fe7c54d80316cb352971e4, type: 2}
-  m_sharedMaterial: {fileID: 7244128505161037600, guid: 658857f963fe7c54d80316cb352971e4, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 385a1da123e7be5ccacda4def55ff080, type: 2}
+  m_sharedMaterial: {fileID: -9181122809482665498, guid: 385a1da123e7be5ccacda4def55ff080, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -745,6 +745,18 @@ PrefabInstance:
       propertyPath: m_text
       value: Jogar
       objectReference: {fileID: 0}
+    - target: {fileID: 813182002684750707, guid: 2e3917653d9886c4b9928331b960f29b, type: 3}
+      propertyPath: m_fontAsset
+      value: 
+      objectReference: {fileID: 11400000, guid: 385a1da123e7be5ccacda4def55ff080, type: 2}
+    - target: {fileID: 813182002684750707, guid: 2e3917653d9886c4b9928331b960f29b, type: 3}
+      propertyPath: m_sharedMaterial
+      value: 
+      objectReference: {fileID: -9181122809482665498, guid: 385a1da123e7be5ccacda4def55ff080, type: 2}
+    - target: {fileID: 813182002684750707, guid: 2e3917653d9886c4b9928331b960f29b, type: 3}
+      propertyPath: m_hasFontAssetChanged
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1518764581731085874, guid: 2e3917653d9886c4b9928331b960f29b, type: 3}
       propertyPath: m_Name
       value: Jogar
@@ -807,7 +819,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4039200307041461113, guid: 2e3917653d9886c4b9928331b960f29b, type: 3}
       propertyPath: m_LocalScale.y
-      value: 0.83
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4039200307041461113, guid: 2e3917653d9886c4b9928331b960f29b, type: 3}
       propertyPath: m_LocalPosition.x
@@ -843,7 +855,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4039200307041461113, guid: 2e3917653d9886c4b9928331b960f29b, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -439.6
+      value: -451.5
       objectReference: {fileID: 0}
     - target: {fileID: 4039200307041461113, guid: 2e3917653d9886c4b9928331b960f29b, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -1250,7 +1262,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4189639623305656006, guid: 9b7d11052cf9b7d4baadfac6d5486f51, type: 3}
       propertyPath: m_LocalScale.y
-      value: 0.83
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4189639623305656006, guid: 9b7d11052cf9b7d4baadfac6d5486f51, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1760,7 +1772,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2974837333917209679, guid: 2e3917653d9886c4b9928331b960f29b, type: 3}
       propertyPath: m_SizeDelta.x
-      value: 144.42
+      value: 144.46
       objectReference: {fileID: 0}
     - target: {fileID: 2974837333917209679, guid: 2e3917653d9886c4b9928331b960f29b, type: 3}
       propertyPath: m_AnchoredPosition.x
@@ -1804,7 +1816,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4039200307041461113, guid: 2e3917653d9886c4b9928331b960f29b, type: 3}
       propertyPath: m_LocalScale.y
-      value: 0.83
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4039200307041461113, guid: 2e3917653d9886c4b9928331b960f29b, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1840,7 +1852,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4039200307041461113, guid: 2e3917653d9886c4b9928331b960f29b, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -772
+      value: -831.5
       objectReference: {fileID: 0}
     - target: {fileID: 4039200307041461113, guid: 2e3917653d9886c4b9928331b960f29b, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -2122,6 +2134,18 @@ PrefabInstance:
       propertyPath: m_text
       value: "Cr\xE9ditos"
       objectReference: {fileID: 0}
+    - target: {fileID: 813182002684750707, guid: 2e3917653d9886c4b9928331b960f29b, type: 3}
+      propertyPath: m_fontAsset
+      value: 
+      objectReference: {fileID: 11400000, guid: 385a1da123e7be5ccacda4def55ff080, type: 2}
+    - target: {fileID: 813182002684750707, guid: 2e3917653d9886c4b9928331b960f29b, type: 3}
+      propertyPath: m_sharedMaterial
+      value: 
+      objectReference: {fileID: -9181122809482665498, guid: 385a1da123e7be5ccacda4def55ff080, type: 2}
+    - target: {fileID: 813182002684750707, guid: 2e3917653d9886c4b9928331b960f29b, type: 3}
+      propertyPath: m_hasFontAssetChanged
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1518764581731085874, guid: 2e3917653d9886c4b9928331b960f29b, type: 3}
       propertyPath: m_Name
       value: Creditos
@@ -2136,7 +2160,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2974837333917209679, guid: 2e3917653d9886c4b9928331b960f29b, type: 3}
       propertyPath: m_SizeDelta.x
-      value: 328.97
+      value: 320.68
       objectReference: {fileID: 0}
     - target: {fileID: 2974837333917209679, guid: 2e3917653d9886c4b9928331b960f29b, type: 3}
       propertyPath: m_AnchoredPosition.x
@@ -2180,7 +2204,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4039200307041461113, guid: 2e3917653d9886c4b9928331b960f29b, type: 3}
       propertyPath: m_LocalScale.y
-      value: 0.83
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4039200307041461113, guid: 2e3917653d9886c4b9928331b960f29b, type: 3}
       propertyPath: m_LocalPosition.x
@@ -2216,7 +2240,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4039200307041461113, guid: 2e3917653d9886c4b9928331b960f29b, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -605.8
+      value: -641.5
       objectReference: {fileID: 0}
     - target: {fileID: 4039200307041461113, guid: 2e3917653d9886c4b9928331b960f29b, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -2311,8 +2335,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: "realiza\xE7\xE3o"
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 2e89fab242fc048e48583c0bba56622a, type: 2}
+  m_sharedMaterial: {fileID: -9181122809482665498, guid: 2e89fab242fc048e48583c0bba56622a, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []

@@ -36,7 +36,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
   m_AnchoredPosition: {x: 297.675, y: -70}
-  m_SizeDelta: {x: 144.42, y: 100}
+  m_SizeDelta: {x: 144.46, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &8169958400031671399
 CanvasRenderer:
@@ -68,8 +68,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Sair
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 658857f963fe7c54d80316cb352971e4, type: 2}
-  m_sharedMaterial: {fileID: 7244128505161037600, guid: 658857f963fe7c54d80316cb352971e4, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 385a1da123e7be5ccacda4def55ff080, type: 2}
+  m_sharedMaterial: {fileID: -9181122809482665498, guid: 385a1da123e7be5ccacda4def55ff080, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
