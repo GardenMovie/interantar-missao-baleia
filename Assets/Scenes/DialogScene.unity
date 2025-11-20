@@ -473,7 +473,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5492552726626838154, guid: 17ed02d71cfb8c24aa254204f1a43770, type: 3}
       propertyPath: globeTargetIndex
-      value: 0
+      value: -1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1027,7 +1027,7 @@ GameObject:
   - component: {fileID: 1030702548}
   - component: {fileID: 1030702547}
   m_Layer: 5
-  m_Name: Panel
+  m_Name: TutorialPanel
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1072,6 +1072,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 90a3a0c60d65378c2a4fbb4c5dcdddc7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  SceneToChange: SampleScene
 --- !u!114 &1030702548
 MonoBehaviour:
   m_ObjectHideFlags: 0

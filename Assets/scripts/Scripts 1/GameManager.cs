@@ -86,8 +86,8 @@ public class GameManager : MonoBehaviour
 
     public void ChangeScene(string nomeCena)
     {
-        // SceneManager.LoadScene(nomeCena);
-        StartCoroutine(ChangeSceneTransition(nomeCena));
+        SceneManager.LoadScene(nomeCena);
+        // StartCoroutine(ChangeSceneTransition(nomeCena));
     }
 
     System.Collections.IEnumerator ChangeSceneTransition(string nomeCena)

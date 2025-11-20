@@ -891,7 +891,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8683831482597092358, guid: 2e3917653d9886c4b9928331b960f29b, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
-      value: SampleScene
+      value: DialogScene
       objectReference: {fileID: 0}
     - target: {fileID: 8967726332509906642, guid: 2e3917653d9886c4b9928331b960f29b, type: 3}
       propertyPath: TipoBotao

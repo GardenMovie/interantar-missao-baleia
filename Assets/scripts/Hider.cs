@@ -12,7 +12,6 @@ public class Hider : MonoBehaviour
             if (i != GameManager.Instance.globeTargetIndex + 1)
             {
                 gameObject.transform.GetChild(i).gameObject.SetActive(false);
-                return;
             }
             else
             {
